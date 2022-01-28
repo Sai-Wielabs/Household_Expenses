@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113842504080",
+    "project_id": "household-expenses-f269c",
+    "storage_bucket": "household-expenses-f269c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113842504080:android:576d8fa8933acb7ccab315",
+        "android_client_info": {
+          "package_name": "com.example.household_expences"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113842504080-56kks59ptf18nk0oj081tkts21kkbmiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXJ2Efqq8pJsES0Ec8QFcx4voyCvmIFbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113842504080-56kks59ptf18nk0oj081tkts21kkbmiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
